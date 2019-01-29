@@ -1,4 +1,4 @@
 [submodule "sub-project-1"]
 	path = sub-project-1
 	url = https://github.com/hello-chenchen-demo/sub-project-1.git
-	branch = master
+	branch = master-test
